@@ -1,0 +1,2 @@
+// wap to calculate the sum of a numbers occuring in the multiplication table of 8
+#include<stdio.h>
